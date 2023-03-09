@@ -5,3 +5,4 @@ I'm pretty happy with the outcome but feel like there's a better solution out th
 
 Some elements were missing from the asset file (like a white font logo for the footer), so I just made do with what was there.
 
+[Link to Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
